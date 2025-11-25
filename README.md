@@ -40,9 +40,6 @@
 > 1 . Profile Information and Recommendation based on Listening Activity
 <br/>
 
-
-> 2 . Custom Built Recommendation System using Hybrid Deep Learning methods of Content-Based Extraction and Collaborative Filtering
-
 ---
 #### Stay Tuned for Updates 
 ```
